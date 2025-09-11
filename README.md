@@ -6,6 +6,7 @@
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
 | 2025-06-30 | An overview of diffusion models for generative artificial intelligence |  arXiv:2412 | 2024 |
+| 2025-06-30 | An overview of diffusion models for generative artificial intelligence |  arXiv:2412 | 2024 |
 | 2025-06-29 | Multiple instance learning framework with masked hard instance mining for whole slide image classification | ICCV | 2023 |
 | 2025-06-29 | Quilt-1m: One million image-text pairs for histopathology | nan | 2023 |
 | 2025-06-29 | Scaling vision transformers to gigapixel images via hierarchical self-supervised learning | CVPR | 2022 |
