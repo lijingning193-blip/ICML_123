@@ -3,9 +3,9 @@
 - [ICML读书小组](#icml_reading_group)
 
 # 论文列表
-| 日期 | 论文名称 | 期刊 | 年份 |
-| :----: | :------: | :----: | :----: |
-| 2025-08-22 | Show or Tell? A Benchmark To Evaluate Visual and Textual Prompts in Semantic Segmentation |   IEEE Transactions on Image Processing  | 2024 |
+| 日期 | 论文名称 | 期刊 | 年份 | 备注 |
+| :----: | :------: | :----: | :----: | :----: |
+| 2025-08-22 | Bridge the Points: Graph-based Few-shot Segment Anything Semantically |   IEEE Transactions on Image Processing  | 2024 | 陈柏佳
 | 2025-08-22 | EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images |   IEEE Transactions on Image Processing  | 2024 |
 | 2025-08-22 | Machine Learning Optimization Techniques: A Survey, Classification, Challenges, and Future Research Issues |  Archives of Computational Methods in Engineering | 2024 |
 | 2025-08-20 | A transformer-based deep learning model for early prediction of lymph node metastasis in locally advanced gastric cancer after neoadjuvant chemotherapy using pretreatment CT images | EClinicalMedicine | 2024 |
