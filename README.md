@@ -3,10 +3,34 @@
 - [ICML读书小组](#icml_reading_group)
 
 # 论文列表
-| 日期 | 论文名称 | 期刊 | 年份 |
+| 日期 | 论文名称 | 期刊 | 年份 | 备注 |
 | :----: | :------: | :----: | :----: |
-| 2025-07-14 |Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge | Nature Communications | 2025 |
-| 2025-07-14 |Points-supervised Fundus Vessel Segmentation via Shape Priors and Contrastive Learning |  IEEE Transactions on Medical Imaging | 2025 |
+| 2025-08-22 | Show or Tell? A Benchmark To Evaluate Visual and Textual Prompts in Semantic Segmentation |   IEEE Transactions on Image Processing  | 2024 |
+| 2025-08-22 | EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images |   IEEE Transactions on Image Processing  | 2024 |
+| 2025-08-22 | Machine Learning Optimization Techniques: A Survey, Classification, Challenges, and Future Research Issues |  Archives of Computational Methods in Engineering | 2024 |
+| 2025-08-20 | A transformer-based deep learning model for early prediction of lymph node metastasis in locally advanced gastric cancer after neoadjuvant chemotherapy using pretreatment CT images | EClinicalMedicine | 2024 |
+| 2025-08-20 | Generative AI enables medical image segmentation in ultra low-data regimes |  Nature Communications | 2025 |
+| 2025-08-20 | Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging |  Nature Medicine  | 2024 |
+| 2025-08-20 | UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments |  arXiv | 2025 |
+| 2025-08-20 | An explainable longitudinal multi-modal fusion model for predicting neoadjuvant therapy response in women with breast cancer |  Nature Communications | 2024 |
+| 2025-08-20 | VLM-CPL: Consensus Pseudo-Labels from Vision-Language Models for Annotation-Free Pathological Image Classification |  IEEE Transactions on Medical Imaging | 2025 |
+| 2025-08-20 | Generative AI enables medical image segmentation in ultra low-data regimes |  Nature Communications | 2025 |
+| 2025-08-19 | SurgPub-Video: A Comprehensive Surgical Video Dataset for Enhanced Surgical Intelligence in Vision-Language Model |  arXiv | 2025 |
+| 2025-08-12 | RetinaDA: a diverse dataset for domain adaptation in retinal vessel segmentation |  Frontiers of Computer Science | 2025 |
+| 2025-08-03 | Beyond One-to-One: Rethinking the Referring Image Segmentation |  ICCV | 2024 |
+| 2025-07-29 | Precision Oral Medicine: A DPR Segmentation and Transfer Learning Approach for Detecting Third Molar Compress Inferior Alveolar Nerve |  IEEE Journal of Translational Engineering in Health and Medicine | 2025 |
+| 2025-07-29 | A Multi-Task Based Deep Learning Framework With Landmark Detection for MRI Couinaud Segmentation |  IEEE Journal of Translational Engineering in Health and Medicine | 2024 |
+| 2025-07-25 | NuSeC: A Dataset for Nuclei Segmentation in Breast Cancer Histopathology Images | arXiv | 2025 |
+| 2025-07-25 | Faster Interactive Segmentation of Identical-Class Objects With One Mask in High-Resolution Remotely Sensed Imagery |  IEEE Transactions on Geoscience and Remote Sensing | 2024 |
+| 2025-07-25 | Towards Global Optimal Visual In-Context Learning Prompt Selection |  NIPS | 2024 |
+| 2025-07-20 | ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts |  	arXiv | 2025 |
+| 2025-07-20 | Spatial Frequency Modulation for Semantic Segmentation |  TPAMI | 2025 |
+| 2025-07-19 |  F3-Net: Foundation Model for Full Abnormality Segmentation of Medical Images with Flexible Input Modality Requirement |  	arXiv | 2025 |
+| 2025-07-19 | Continual Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals |   Neural Networks | 2025 |
+| 2025-07-14 | Unified Domain Adaptive Semantic Segmentation |  TPAMI | 2025 |
+| 2025-07-14 | Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport | arXiv| 2025 |
+| 2025-07-14 | Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge | Nature Communications | 2025 |
+| 2025-07-14 | Points-supervised Fundus Vessel Segmentation via Shape Priors and Contrastive Learning |  IEEE Transactions on Medical Imaging | 2025 |
 | 2025-06-30 | An overview of diffusion models for generative artificial intelligence |  arXiv:2412 | 2024 |
 | 2025-06-29 | Multiple instance learning framework with masked hard instance mining for whole slide image classification | ICCV | 2023 |
 | 2025-06-29 | Quilt-1m: One million image-text pairs for histopathology | nan | 2023 |
