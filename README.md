@@ -5,7 +5,8 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
-| 2025-06-30 | An overview of diffusion models for generative artificial intelligence |  arXiv:2412 | 2024 |
+| 2025-07-14 |Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge | Nature Communications | 2025 |
+| 2025-07-14 |Points-supervised Fundus Vessel Segmentation via Shape Priors and Contrastive Learning |  IEEE Transactions on Medical Imaging | 2025 |
 | 2025-06-30 | An overview of diffusion models for generative artificial intelligence |  arXiv:2412 | 2024 |
 | 2025-06-29 | Multiple instance learning framework with masked hard instance mining for whole slide image classification | ICCV | 2023 |
 | 2025-06-29 | Quilt-1m: One million image-text pairs for histopathology | nan | 2023 |
