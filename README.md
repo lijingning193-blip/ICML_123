@@ -5,7 +5,25 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
-| 2025-08-22 | Bridge the Points: Graph-based Few-shot Segment Anything Semantically |   IEEE Transactions on Image Processing  | 2024 |
+
+| 2025-09-10 | Text4Seg++: Advancing Image Segmentation via Generative Language Modeling | arXiv | 2025 |
+| 2025-09-10 | A Survey on Confidence Calibration of Deep Learning-Based Classification Models Under Class Imbalance Data | IEEE Transactions on Neural Networks and Learning Systems  | 2025 |
+| 2025-09-07 | Structure-Induced Gradient Regulation for Generalizable Vision-Language Models | IEEE Transactions on Pattern Analysis and Machine Intelligence  | 2025 |
+| 2025-09-07 | Large-vocabulary segmentation for medical images with text prompts | npj Digital Medicine  | 2025 |
+| 2025-09-06 | RVPD: an Automated System for Calculating the Tortuosity and Bifurcation An gles of Retinal Vessels to Predict Diseases | ISBI  | 2023 |
+| 2025-08-28 | MRI-based habitat radiomics combined with vision transformer for identifying vulnerable intracranial atherosclerotic plaques and predicting stroke events: a multicenter, retrospective study | EClinicalMedicine  | 2025 |
+| 2025-08-28 | Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation | CVPR  | 2025 |
+| 2025-08-24 | A new dataset for measuring the performance of blood vessel segmentation methods under distribution shifts | PLoS One  | 2025 |
+| 2025-08-24 | TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images | Cell Systems  | 2023 |
+| 2025-08-24 | Instance segmentation of mitochondria in electron microscopy images with a generalist deep learning model trained on a diverse dataset | Cell Systems  | 2023 |
+| 2025-08-24 | Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline |  CVPR  | 2024 |
+| 2025-08-24 | Rapid and flexible segmentation of electron microscopy data using few-shot machine learning |  npj Computational Materials  | 2021 |
+| 2025-08-24 | Uncertainty-aware particle segmentation for electron microscopy at varied length scales |  npj Computational Materials | 2024 |
+| 2025-08-24 | An Ultrasound Image Dataset for Thyroid Nodule Detection and Classification |  Sci Data | 2025 |
+| 2025-08-23 | SelfAdapt: Unsupervised Domain Adaptation of Cell Segmentation Models |  arXiv | 2025 |
+| 2025-08-22 | Source-free Domain Adaptation Using Prompt Learning for Medical Image Segmentation |  Pattern Recognition | 2025 |
+| 2025-08-22 | Show or Tell? A Benchmark To Evaluate Visual and Textual Prompts in Semantic Segmentation |  arXiv | 2025 |
+| 2025-08-22 | Bridge the Points: Graph-based Few-shot Segment Anything Semantically |  NIPS  | 2024 |
 | 2025-08-22 | EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images |   IEEE Transactions on Image Processing  | 2024 |
 | 2025-08-22 | Machine Learning Optimization Techniques: A Survey, Classification, Challenges, and Future Research Issues |  Archives of Computational Methods in Engineering | 2024 |
 | 2025-08-20 | A transformer-based deep learning model for early prediction of lymph node metastasis in locally advanced gastric cancer after neoadjuvant chemotherapy using pretreatment CT images | EClinicalMedicine | 2024 |
