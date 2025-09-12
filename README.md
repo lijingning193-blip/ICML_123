@@ -5,6 +5,7 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-09-12 | Interventional Bag Multi-Instance Learning On Whole-Slide Pathological Images | CVPR | 2023 |
 | 2025-09-12 | A multimodal and fully automated system for prediction of pathological complete response to neoadjuvant chemotherapy in breast cancer | Science Advances | 2025 |
 | 2025-09-11 | UniAda: Domain Unifying and Adapting Network for Generalizable Medical Image Segmentation | IEEE Transactions on Medical Imaging | 2024 |
 | 2025-09-11 | An explainable longitudinal multi-modal fusion model for predicting neoadjuvant therapy response in women with breast cancer | Nature Communications | 2024 |
