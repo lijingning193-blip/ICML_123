@@ -3,7 +3,7 @@
 - [ICML读书小组](#icml_reading_group)
 
 # 论文列表
-| 日期 | 论文名称 | 期刊 | 年份 | 备注 |
+| 日期 | 论文名称 | 期刊 | 年份 | 备 注 |
 | :----: | :------: | :----: | :----: | :----: |
 | 2025-08-22 | Bridge the Points: Graph-based Few-shot Segment Anything Semantically |   IEEE Transactions on Image Processing  | 2024 | 陈柏佳
 | 2025-08-22 | EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images |   IEEE Transactions on Image Processing  | 2024 |
