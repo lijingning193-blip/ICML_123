@@ -5,6 +5,7 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-09-13 | LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image Segmentation | ICML | 2025 |
 | 2025-09-12 | Is the medical image segmentation problem solved? A survey of current developments and future directions | arXiv | 2025 |
 | 2025-09-12 | MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts | arXiv | 2025 |
 | 2025-09-12 | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein | arXiv | 2025 |
