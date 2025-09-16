@@ -5,7 +5,8 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
-| 2025-09-13 | Geometric Feature Prompting of Image Segmentation Models | arXiv | 2025 |
+| 2025-09-15 | OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection | CVPR | 2025 |
+| 2025-09-14 | Geometric Feature Prompting of Image Segmentation Models | arXiv | 2025 |
 | 2025-09-14 | AFBF-YOLO: An Improved YOLO11n Algorithm for Detecting Bunch and Maturity of Cherry Tomatoes in Greenhouse Environments | Plants | 2025 |
 | 2025-09-13 | HarmonySeg: Tubular Structure Segmentation with Deep-Shallow Feature Fusion and Growth-Suppression Balanced Loss | arXiv | 2025 |
 | 2025-09-13 | Pheno4D: A spatio-temporal dataset of maize and tomato plant point clouds for phenotyping and advanced plant analysis | PLoS One | 2021 |
