@@ -33,7 +33,7 @@
 | 2025-08-24 | A new dataset for measuring the performance of blood vessel segmentation methods under distribution shifts | PLoS One  | 2025 |
 | 2025-08-24 | TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images | Cell Systems  | 2023 |
 | 2025-08-24 | Instance segmentation of mitochondria in electron microscopy images with a generalist deep learning model trained on a diverse dataset | Cell Systems  | 2023 |
-| 2025-08-24 | Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline |  CVPR  | 2024 |
+| 2025-08-24 | Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline |  CVPR  | 2025 |
 | 2025-08-24 | Rapid and flexible segmentation of electron microscopy data using few-shot machine learning |  npj Computational Materials  | 2021 |
 | 2025-08-24 | Uncertainty-aware particle segmentation for electron microscopy at varied length scales |  npj Computational Materials | 2024 |
 | 2025-08-24 | An Ultrasound Image Dataset for Thyroid Nodule Detection and Classification |  Sci Data | 2025 |
