@@ -5,6 +5,19 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-09-24 |  PEM: Prototype-based Efficient MaskFormer for Image Segmentation |  CVPR | 2024 |
+| 2025-09-24 |  Your ViT is Secretly an Image Segmentation Model |  CVPR | 2025 |
+| 2025-09-24 | No time to train! Training-Free Reference-Based Instance Segmentation | arXiv | 2025 |
+| 2025-09-24 |  UNICL-SAM: Uncertainty-Driven In-Context Segmentation with Part Prototype Discovery |  CVPR | 2025 |
+| 2025-09-24 |  A Simple Image Segmentation Framework via In-Context Examples |  NIPS | 2025 |
+| 2025-09-24 |  A Comprehensive Survey on Segment Anything Model for Vision and Beyond | arXiv | 2023 |
+| 2025-09-23 |  SEEM: Segment Everything Everywhere All at Once |  NIPS | 2023 |
+| 2025-09-23 |  DINOSim: Zero-Shot Object Detection and Semantic Segmentation on Microscopy Images |  bioRxiv | 2025 |
+| 2025-09-23 |  Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images |  NIPS | 2025 |
+| 2025-09-22 |  DINOv2 Meets Text: A Unified Framework for Image-and Pixel-Level Vision-Language Alignment |  CVPR | 2025 |
+| 2025-09-22 |  DINOv3 |  arXiv | 2025 |
+| 2025-09-21 |  Efficient Survival Prediction Framework Based on Multimodal Multi-instance Fuzzy Optimal Transport |  IEEE Transactions on Fuzzy Systems | 2025 |
+| 2025-09-21 |  WaterBox: Weakly supervised underwater instance segmentation and a new benchmark |  Neurocomputing | 2025 |
 | 2025-09-17 |  I-Segmenter: Integer-Only Vision Transformer for Efficient Semantic Segmentation |  arXiv | 2025 |
 | 2025-09-16 |  PlantSeg: A Large-Scale In-the-wild Dataset for Plant Disease Segmentation |  arXiv | 2024 |
 | 2025-09-15 | OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection | CVPR | 2025 |
