@@ -5,7 +5,9 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
-| 2025-09-24 |  Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations |  Expert Systems with Applications | 2025 |
+| 2025-09-27 |  Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations |  Expert Systems with Applications | 2025 |
+| 2025-09-25 | UniAda: Domain Unifying and Adapting Network for Generalizable Medical Image Segmentation | IEEE Transactions on Medical Imaging  | 2024 |
+| 2025-09-25 |  Unified Contrastive Learning in Image-Text-Label Space |  CVPR | 2022 |
 | 2025-09-24 |  PEM: Prototype-based Efficient MaskFormer for Image Segmentation |  CVPR | 2024 |
 | 2025-09-24 |  Your ViT is Secretly an Image Segmentation Model |  CVPR | 2025 |
 | 2025-09-24 | No time to train! Training-Free Reference-Based Instance Segmentation | arXiv | 2025 |
