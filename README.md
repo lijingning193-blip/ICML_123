@@ -5,6 +5,7 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-09-24 |  Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations |  Expert Systems with Applications | 2025 |
 | 2025-09-24 |  PEM: Prototype-based Efficient MaskFormer for Image Segmentation |  CVPR | 2024 |
 | 2025-09-24 |  Your ViT is Secretly an Image Segmentation Model |  CVPR | 2025 |
 | 2025-09-24 | No time to train! Training-Free Reference-Based Instance Segmentation | arXiv | 2025 |
