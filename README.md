@@ -5,6 +5,9 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-09-28 | Cross-Domain Few-Shot Segmentation via Ordinary Differential Equations over Time Intervals |  arXiv | 2025 |
+| 2025-09-28 |  Sli2Vol: Annotate a 3D Volume from a Single Slice with Self-Supervised Learning |  WACV | 2025 |
+| 2025-09-28 | DeformCL: Learning Deformable Centerline Representation for Vessel Extraction in 3D Medical Image |  CVPR | 2025 |
 | 2025-09-27 |  Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations |  Expert Systems with Applications | 2025 |
 | 2025-09-25 | UniAda: Domain Unifying and Adapting Network for Generalizable Medical Image Segmentation | IEEE Transactions on Medical Imaging  | 2024 |
 | 2025-09-25 |  Unified Contrastive Learning in Image-Text-Label Space |  CVPR | 2022 |
