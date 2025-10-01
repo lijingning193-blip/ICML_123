@@ -5,6 +5,7 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-09-29 | Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 | arXiv | 2025 |
 | 2025-09-28 | Cross-Domain Few-Shot Segmentation via Ordinary Differential Equations over Time Intervals |  arXiv | 2025 |
 | 2025-09-28 |  Sli2Vol: Annotate a 3D Volume from a Single Slice with Self-Supervised Learning |  WACV | 2025 |
 | 2025-09-28 | DeformCL: Learning Deformable Centerline Representation for Vessel Extraction in 3D Medical Image |  CVPR | 2025 |
