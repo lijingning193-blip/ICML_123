@@ -5,6 +5,11 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-10-06 | One-shot Cross-domain Instance Detection With Universal Representation | IEEE Transactions on Automation Science and Engineering | 2025 |
+| 2025-10-05 | SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks | arXiv | 2025 |
+| 2025-10-04 | CA-SAM2: SAM2-Based Context-Aware Network with Auto-prompting for Nuclei Instance Segmentation | MICCAI | 2025 |
+| 2025-10-03 | BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once | arXiv | 2025 |
+| 2025-10-01 | Addressing Label Scarcity and Domain Shift in Medical Image Segmentation | MICCAI | 2025 |
 | 2025-09-29 | Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 | arXiv | 2025 |
 | 2025-09-28 | Cross-Domain Few-Shot Segmentation via Ordinary Differential Equations over Time Intervals |  arXiv | 2025 |
 | 2025-09-28 |  Sli2Vol: Annotate a 3D Volume from a Single Slice with Self-Supervised Learning |  WACV | 2025 |
