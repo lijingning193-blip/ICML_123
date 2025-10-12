@@ -5,6 +5,11 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-10-12 | Show and Segment: Universal Medical Image Segmentation via In-Context Learning | CVPR | 2025 |
+| 2025-10-12 | Recent Advances in Optimal Transport for Machine Learning | IEEE TPAMI | 2025 |
+| 2025-10-11 | AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration | arXiv | 2025 |
+| 2025-10-11 | An Efficient Survival Prediction Framework Based on Multimodal Multi-instance Fuzzy Optimal Transport | IEEE Transactions on Fuzzy Systems | 2025 |
+| 2025-10-09 | Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning | arXiv | 2025 |
 | 2025-10-06 | One-shot Cross-domain Instance Detection With Universal Representation | IEEE Transactions on Automation Science and Engineering | 2025 |
 | 2025-10-05 | SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks | arXiv | 2025 |
 | 2025-10-04 | CA-SAM2: SAM2-Based Context-Aware Network with Auto-prompting for Nuclei Instance Segmentation | MICCAI | 2025 |
