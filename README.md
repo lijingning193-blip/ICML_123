@@ -5,6 +5,10 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-10-16 | SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI | arXiv | 2025 |
+| 2025-10-14 | A Physics-preserved Transfer Learning Method for Differential Equations | arXiv | 2025 |
+| 2025-10-13 | Source-Free Active Domain Adaptation via Influential-Points-Guided Progressive Teacher for Medical Image Segmentation | IEEE Transactions on Medical Imaging | 2025 |
+| 2025-10-13 | SAM 3: Segment Anything with Concepts | arXiv | 2025 |
 | 2025-10-12 | Show and Segment: Universal Medical Image Segmentation via In-Context Learning | CVPR | 2025 |
 | 2025-10-12 | Recent Advances in Optimal Transport for Machine Learning | IEEE TPAMI | 2025 |
 | 2025-10-11 | AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration | arXiv | 2025 |
