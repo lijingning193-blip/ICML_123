@@ -5,6 +5,16 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-10-25 | Two Losses, One Goal: Balancing Conflict Gradients for Semi-supervised Semantic Segmentation | ICCV | 2025 |
+| 2025-10-25 | WeaveSeg: Iterative Contrast-weaving and Spectral Feature-refining for Nuclei Instance Segmentation | ICCV | 2025 |
+| 2025-10-23 | FocalFormer3D: Focusing on Hard Instance for 3D Object Detection | ICCV | 2023 |
+| 2025-10-23 | Focus-and-Detect: A small object detection framework for aerial images | Signal Processing: Image Communication | 2025 |
+| 2025-10-21 | Annotation Ambiguity Aware Semi-Supervised Medical Image Segmentation | CVPR | 2025 |
+| 2025-10-20 | SET: Spectral Enhancement for Tiny Object Detection | CVPR | 2025 |
+| 2025-10-18 | A large annotated cervical cytology images dataset for AI models to aid cervical cancer screening | Scientific Data | 2025 |
+| 2025-10-18 | MSM-Seg: A Modality-and-Slice Memory Framework with Category-Agnostic Prompting for Multi-Modal Brain Tumor Segmentation | arXiv | 2025 |
+| 2025-10-17 | Yolc: You only look clusters for tiny object detection in aerial images |  IEEE Transactions on Intelligent Transportation Systems | 2024 |
+| 2025-10-17 | Clustered Object Detection in Aerial Images | ICCV | 2019 |
 | 2025-10-16 | SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI | arXiv | 2025 |
 | 2025-10-14 | A Physics-preserved Transfer Learning Method for Differential Equations | arXiv | 2025 |
 | 2025-10-13 | Source-Free Active Domain Adaptation via Influential-Points-Guided Progressive Teacher for Medical Image Segmentation | IEEE Transactions on Medical Imaging | 2025 |
