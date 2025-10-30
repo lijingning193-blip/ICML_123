@@ -5,6 +5,8 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-10-30 | KG-SAM: INJECTING ANATOMICAL KNOWLEDGE INTO SEGMENT ANYTHING MODELS VIA CONDITIONAL RANDOM FIELDS | arXiv | 2025 |
+| 2025-10-29 | AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations | MICCAI | 2025 |
 | 2025-10-25 | Two Losses, One Goal: Balancing Conflict Gradients for Semi-supervised Semantic Segmentation | ICCV | 2025 |
 | 2025-10-25 | WeaveSeg: Iterative Contrast-weaving and Spectral Feature-refining for Nuclei Instance Segmentation | ICCV | 2025 |
 | 2025-10-23 | FocalFormer3D: Focusing on Hard Instance for 3D Object Detection | ICCV | 2023 |
