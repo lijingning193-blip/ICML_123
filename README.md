@@ -5,6 +5,24 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-11-12 | Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts | ICCV | 2025 |
+| 2025-11-11 | Foundation model-based apple ripeness and size estimation for selective harvesting | Computers and Electronics in Agriculture | 2025 |
+| 2025-11-11 | MSM-Seg: A Modality-and-Slice Memory Framework with Category-Agnostic Prompting for Multi-Modal Brain Tumor Segmentation | arXiv | 2025 |
+| 2025-11-10 | The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning | arXiv | 2025 |
+| 2025-11-9 | CloSe: A 3D clothing segmentation dataset and model | 3D vision | 2025 |
+| 2025-11-9 | CelloType: a unified model for segmentation and classification of tissue images | Nature methods | 2025 |
+| 2025-11-8 | Promising directions ofmachine learning forpartial differential equations | Nature Computational Science | 2024 |
+| 2025-11-8 | Segment Anything Model Meets Semi-supervised Medical Image Segmentation: A Novel Perspective | NIPS | 2025 |
+| 2025-11-7 | UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection | arXiv | 2025 |
+| 2025-11-3 | Weakly Supervised Intracranial Aneurysm Detection and Segmentation in MR angiography via Multi-task UNet with Vesselness Prior | ICCV | 2025 |
+| 2025-11-3 | Metric Convolutions: A Unifying Theory to Adaptive Image Convolutions | ICCV | 2025 |
+| 2025-11-1 | Weakly-supervised Camouflaged Object Detection via SAM-guided Resolution Iteration Learning | IEEE Transactions on Big Data | 2025 |
+| 2025-10-31 | Self-NPO: Negative Preference Optimization of Diffusion Models by Simply Learning from Itself without Explicit Preference Annotations | arXiv | 2025 |
+| 2025-10-31 | Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing | arXiv | 2025 |
+| 2025-10-31 | Aligning visual contrastive learning models via preference optimization | arXiv | 2024 |
+| 2025-10-31 | Mitigating Hallucinations in Multimodal LLMs via Object-aware Preference Optimization | arXiv | 2025 |
+| 2025-10-31 | PerPO: Perceptual Preference Optimization via Discriminative Rewarding | arXiv | 2025 |
+| 2025-10-30 | MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance | ICCV | 2025 |
 | 2025-10-30 | KG-SAM: INJECTING ANATOMICAL KNOWLEDGE INTO SEGMENT ANYTHING MODELS VIA CONDITIONAL RANDOM FIELDS | arXiv | 2025 |
 | 2025-10-29 | AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations | MICCAI | 2025 |
 | 2025-10-25 | Two Losses, One Goal: Balancing Conflict Gradients for Semi-supervised Semantic Segmentation | ICCV | 2025 |
